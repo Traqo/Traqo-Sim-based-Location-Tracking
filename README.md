@@ -1,10 +1,10 @@
 ![alt text](https://static.wixstatic.com/media/4d62d8_59848273e1d74dfc8b529fb24772b4c4~mv2_d_4267_4382_s_4_2.png/v1/fill/w_146,h_146,al_c,q_85,usm_0.66_1.00_0.01/App%20logo-png.webp)
 
-# Sim based Location Tracking
+# Traqo Sim based Location Tracking
 
 Traqo's Sim based Tracking solution provides hassle free tracking of assets with a simple phone, no need of internet or smartphone. It works on cellular networks to deduce locations. This solution can be easily integrated through available APIs.
 
-Visit https://www.traqo.in for more details.
+Visit https://www.traqo.io for more details.
 
 ### How can we start tracking ?
 ```
