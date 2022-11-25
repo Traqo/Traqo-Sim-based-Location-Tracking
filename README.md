@@ -6,6 +6,7 @@ Traqo's Sim based Tracking solution provides hassle free tracking of assets with
 
 Visit https://www.traqo.io for more details.
 
+
 ### How can we start tracking ?
 ```
 1. Add phone number.
